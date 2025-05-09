@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Ludovic] alias [Jinloup]:
+# 👋 Bonjour, je suis **Ludovic** alias **Jinloup**:
 
 Développeur junior passionné par la **technologie**, la **création** et l'**apprentissage continu**.  
 Curieux de nature, je m’intéresse au **développement web** et **l'informatique** de mainière général, 
@@ -45,8 +45,8 @@ J'aspire à devenir professionnel étant actuellement en formation de "Développ
 
 ## 📫 Me contacter :
 
-📧 [l.galicher@orange.fr]  
-💼 [LinkedIn](https://www.linkedin.com/in/ludovic-galicher-69ba9932a)
+📧 Mon [mail](l.galicher@orange.fr)
+💼 Mon [LinkedIn](https://www.linkedin.com/in/ludovic-galicher-69ba9932a)
 
 ---
 
