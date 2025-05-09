@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Ludovic** alias **Jinloup**:
+# 👋 Bonjour, je suis **Ludovic** alias **Jinloup**
 
 Développeur junior passionné par la **technologie**, la **création** et l'**apprentissage continu**.  
 Curieux de nature, je m’intéresse au **développement web** et **l'informatique** de mainière général, 
