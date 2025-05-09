@@ -45,7 +45,7 @@ J'aspire à devenir professionnel étant actuellement en formation de "Développ
 
 ## 📫 Me contacter :
 
-📧 Mon [mail](l.galicher@orange.fr)
+📧 Mon mail: l.galicher@orange.fr
 💼 Mon [LinkedIn](https://www.linkedin.com/in/ludovic-galicher-69ba9932a)
 
 ---
