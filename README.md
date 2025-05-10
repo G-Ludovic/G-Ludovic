@@ -37,9 +37,7 @@ J'aspire à devenir professionnel étant actuellement en formation de "Développ
 
 ## 🚀 Projet en cours :
 
--> **Jinloup Ludo Art** 🐾 : Application de type galerie d'Art pour présenter mes dessins
-
-👉 Retrouvez tous mes projets sur [mon GitHub](https://github.com/ton-profil)
+-> [**Jinloup Ludo Art** 🐾](https://github.com/G-Ludovic/jinloup-art-react-app.git) : Application de type galerie d'Art pour présenter mes dessins
 
 ---
 
