@@ -38,7 +38,8 @@ J'aspire à devenir professionnel étant actuellement en formation de "Développ
 ## 🚀 Projets :
 
 - [**Jinloup Ludo Art** 🐾](https://github.com/G-Ludovic/jinloup-art-react-app.git) : Application de type galerie d'Art pour présenter mes dessins,
-- [**Artisans Rénovation**🔨](https://github.com/G-Ludovic/artisan-renovation.git) : Application en rush (4h maximum) de présentation des métiers d'artisanat en collaboration avec [Vinzifinz](https://github.com/Vinzifinz),
+- [**Artisans Rénovation**🔨](https://github.com/G-Ludovic/artisan-renovation.git) : Application à créer en rush (4h maximum) de présentation des métiers d'artisanat en collaboration avec [Vinzifinz](https://github.com/Vinzifinz),
+- [**Le Loup**🐺](https://github.com/G-Ludovic/solo-rush-project-ludo.git) : Premier SoloRush sur un thème au choix en une matinée en début de formation à la [Wild Code School](https://www.wildcodeschool.com/),
 
 ---
 
