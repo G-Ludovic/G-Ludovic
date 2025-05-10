@@ -37,17 +37,17 @@ J'aspire à devenir professionnel étant actuellement en formation de "Développ
 
 ## 🚀 Projets :
 
-- [**Jinloup Ludo Art** 🐾](https://github.com/G-Ludovic/jinloup-art-react-app.git) : Application de type galerie d'Art pour présenter mes dessins,
-- [**Artisans Rénovation**🔨](https://github.com/G-Ludovic/artisan-renovation.git) : Application à créer en rush (4h maximum) de présentation des métiers d'artisanat en collaboration avec [Vinzifinz](https://github.com/Vinzifinz) à la [Wild Code School](https://www.wildcodeschool.com/),
-- [**Le Loup**🐺](https://github.com/G-Ludovic/solo-rush-project-ludo.git) : Premier SoloRush sur un thème au choix en une matinée en début de formation à la [Wild Code School](https://www.wildcodeschool.com/),
+- [**Jinloup Ludo Art** 🐾](https://github.com/G-Ludovic/jinloup-art-react-app.git) : Application de type galerie d'Art pour présenter mes dessins
+- [**Artisans Rénovation**🔨](https://github.com/G-Ludovic/artisan-renovation.git) : Application à créer en rush (4h maximum) de présentation des métiers d'artisanat en collaboration avec [Vinzifinz](https://github.com/Vinzifinz) à la [Wild Code School](https://www.wildcodeschool.com/)
+- [**Le Loup**🐺](https://github.com/G-Ludovic/solo-rush-project-ludo.git) : Premier SoloRush sur un thème au choix en une matinée en début de formation à la [Wild Code School](https://www.wildcodeschool.com/)
 - [**Naruto Rush**⛩](https://github.com/G-Ludovic/naruto-project-react.git) : Deuxième SoloRush en utilisant "React" sur le thème de cartes de collection via une API à la [Wild Code School](https://www.wildcodeschool.com/)
 
 ---
 
 ## 📫 Me contacter :
 
-📧 Mon mail: l.galicher@orange.fr
-💼 Mon [LinkedIn](https://www.linkedin.com/in/ludovic-galicher-69ba9932a)
+- 📧 Mon mail: l.galicher@orange.fr
+- 💼 Mon [LinkedIn](https://www.linkedin.com/in/ludovic-galicher-69ba9932a)
 
 ---
 
