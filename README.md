@@ -8,15 +8,15 @@
 
 <div align="left">
 
-# 🐺 Je suis Ludovic un développeur passionné ...
+# 🐺 Je suis Ludovic, ...
 
-... par la **technologie**, la **création interactive** et l'**apprentissage continu**.  
-Curieux et créatif, je m’intéresse particulièrement au **développement web**, à l’**informatique** en général,  
-et je m’inspire de mes passions pour mes projets.
+... développeur passionné par la technologie, la création interactive et l'apprentissage continu.
+Curieux et rigoureux, je me spécialise dans le développement web et l’informatique au sens large.
+Je puise mon inspiration dans mes passions et les innovations technologiques afin de concevoir des projets alliant créativité, performance et expérience utilisateur.
 
-🎓 Formé en tant que **Développeur Web | Full Stack** à la [Wild Code School](https://www.wildcodeschool.com/)
-🔭 Actuellement sur des projets d’apprentissage pour affiner mes compétences  
-🌱 Objectif : devenir **développeur full-stack confirmé**  
+🎓 Formé en tant que **Développeur Web | Full Stack** à la [Wild Code School](https://www.wildcodeschool.com/) <br>
+🔭 En constante recherche et apprentissage pour affiner mes compétences  
+🌱 Objectif : devenir **développeur full-stack confirmé** 
 🧩 J’aime **résoudre des problèmes**, **créer des interfaces intuitives** et coder des **expériences interactives**  
 🎯 Mes projets sont le reflet d’un mélange de **passion, technologie et rigueur**  
 
