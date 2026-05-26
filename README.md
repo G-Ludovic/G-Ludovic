@@ -125,6 +125,9 @@ Je puise mon inspiration dans mes passions et les innovations technologiques afi
 
 ## 🚀 Featured Projects  
 
+🎓 [**MR-Formations**](https://www.mr-formations.ch/)
+_Site pour une entrepreneuse dans la formation et le coaching par l'éducation et le développement professionnel des acteurs du monde éducatif._
+
 ✨ [**Jinloup Ludo Art** 🐾](https://github.com/G-Ludovic/Jinloup_Ludo_Art-v2.git)  
 _Galerie d’art numérique pour présenter mes dessins._  
 
